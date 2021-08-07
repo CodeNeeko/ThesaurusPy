@@ -1,0 +1,2 @@
+# ThesaurusPy
+Basic Thesaurus
